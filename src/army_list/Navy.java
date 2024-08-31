@@ -1,3 +1,5 @@
+package army_list;
+
 public class Navy extends Unit {
 	public Navy(String name) {
 		super(name); 

@@ -1,3 +1,4 @@
+package army_list;
 /** 육군/해군/공군의 공통 기능을 명시하기 위한 부모 클래스 */ 
 public abstract class Unit {
 	private String name; 
